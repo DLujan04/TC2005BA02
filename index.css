@@ -141,11 +141,11 @@ p.camp-info {
 .container {
     display: flex;
     align-items: flex-start;
-    width: 110%;
+    width: 120%;
 }
 
 .first-image {
-    width: 110%; 
+    width: 120%; 
 }
 
 
@@ -234,7 +234,7 @@ p.camp-info {
 }
 
 .background-image {
-    width: 110%; 
+    width: 120%; 
 }
 
 .overlay-text {
