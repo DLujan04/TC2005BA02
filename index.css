@@ -141,12 +141,13 @@ p.camp-info {
 .container {
     display: flex;
     align-items: flex-start;
-    width: 100%;
+    width: 120%;
 }
 
 .first-image {
-    width: 100%; 
+    width: 120%; 
 }
+
 
 .div-texto {
     height: 568px;
@@ -154,7 +155,7 @@ p.camp-info {
     border: 1px solid black;
     padding: 10px;
     background-color: #E7E991;
-    width: 100%; 
+    width: 1500px; 
     position: relative;
     left: 0px; 
 }
@@ -183,6 +184,7 @@ p.camp-info {
     font-weight: 400px;
 }
 
+
 .div-aside {
     height: 568px;
     display: block;
@@ -193,6 +195,7 @@ p.camp-info {
     position: relative;
     left: 0px; 
 }
+
 
 .div-aside button {
     display: block;
@@ -206,6 +209,7 @@ p.camp-info {
     font-size: 18px;
     font-weight: 600px;
 }
+
 
 .aside {
     text-align: center;
@@ -230,25 +234,7 @@ p.camp-info {
 }
 
 .background-image {
-    width: 100%; 
-}
-
-@media screen and (min-width: 600px) {
-    .container {
-        width: 120%;
-    }
-
-    .first-image {
-        width: 120%; 
-    }
-
-    .div-texto {
-        width: 1500px; 
-    }
-
-    .background-image {
-        width: 120%; 
-    }
+    width: 120%; 
 }
 
 .overlay-text {
